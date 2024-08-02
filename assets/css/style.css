@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: coral;
+}
+
+img{
+    border-radius: 5px;
+    width: 600;
+}
+
+#searchForm {
+    padding-left: 5%;
+}
+
+#heroId {
+    width: 20rem;
+}
+
+#heroInfo {
+    font-size: small;
+    padding-left: 0%;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #041322;
+    color: #c28e8e;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#chartContainer {
+    padding-left: 10%;
+    padding-top: 11%;
+    padding-bottom: 5%;
+    height: 300px;
+    width: 100%;
+    border-radius: 5px;
+}
